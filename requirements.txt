@@ -1,0 +1,5 @@
+flask_sqlalchemy
+requests~=2.25.1
+flask~=1.1.2
+flask_wtf
+WTForms~=2.3.3
